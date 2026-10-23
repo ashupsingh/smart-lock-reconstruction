@@ -1,0 +1,23 @@
+{
+  "id": "smart-lock",
+  "name": "Fingerprint solenoid smart lock",
+  "category": "IoT / Security",
+  "group": "Embedded & IoT",
+  "icon": "cpu",
+  "description": "Secure door lock system using fingerprint authentication.",
+  "detail": "An Arduino-controlled solenoid lock that checks fingerprints before actuating the lock through a relay.",
+  "stack": [
+    "Arduino",
+    "Solenoid Lock",
+    "Fingerprint Sensor",
+    "Relay"
+  ],
+  "status": "Completed",
+  "source": "https://reactportfolio-eosin.vercel.app/",
+  "image": "/projects/smart_lock.webp",
+  "url": "",
+  "liveUrl": "",
+  "award": "",
+  "featured": false,
+  "evidence": []
+}

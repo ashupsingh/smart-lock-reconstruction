@@ -1,0 +1,4 @@
+{
+  "timeout_relocks": true,
+  "repeated_match_does_not_extend": true
+}
